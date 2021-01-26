@@ -1,4 +1,4 @@
-### Hello World! ![wave](https://github.com/nixin72/nixin72.gif)
+### Hello World! ![wave](https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif)
 
 <!--
 **Faiyaz42/Faiyaz42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
