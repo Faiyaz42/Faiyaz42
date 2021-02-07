@@ -1,7 +1,7 @@
 # Hello World!  ![wave](https://github.com/Faiyaz42/Faiyaz42/blob/main/wave1.gif)
 
 
-[![Faiyaz's github stats](https://github-readme-stats.vercel.app/api?username=Faiyaz42)](https://github.com/Faiyaz42)
+[![Faiyaz's github stats](https://github-readme-stats.vercel.app/api?username=Faiyaz42&&theme=chartreuse-dark)](https://github.com/Faiyaz42)
 
 
 <!--
