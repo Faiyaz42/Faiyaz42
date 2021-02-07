@@ -3,8 +3,9 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz42&repo=Resume-Projects&hide=html&theme=maroongold)](https://github.com/Faiyaz42/Resume-Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz42&repo=Resume-Projects&theme=maroongold)](https://github.com/Faiyaz42/Resume-Projects)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiyaz42&hide=html)](https://github.com/Faiyaz42/Resume-Projects)
 
 
 
