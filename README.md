@@ -8,7 +8,7 @@
 
 
 
-[![Faiyaz's github stats](https://github-readme-stats.vercel.app/api?username=Faiyaz42&theme=chartreuse-dark&hide=prs,issues)](https://github.com/Faiyaz42)
+[![Faiyaz's github stats](https://github-readme-stats.vercel.app/api?username=Faiyaz42&theme=maroongold&hide=prs,issues)](https://github.com/Faiyaz42)
 
 
 <!--
