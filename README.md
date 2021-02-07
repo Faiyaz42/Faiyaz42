@@ -3,7 +3,7 @@
 
 [![Faiyaz's github stats](https://github-readme-stats.vercel.app/api?username=Faiyaz42&&theme=chartreuse-dark)](https://github.com/Faiyaz42)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz42&repo=Resume-Projects&theme=maroongold) (https://github.com/Faiyaz42/Resume-Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Faiyaz42&repo=Resume-Projects&theme=maroongold) (https://github.com/Faiyaz42/Resume-Projects)]
 
 
 <!--
